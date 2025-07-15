@@ -35,8 +35,8 @@ my-expense-tracker/
 ---
 
 ## 🛠️ Installation & Setup
-git clone 
-cd
+git clone [JamiRazaCodes/expenseMangment](https://github.com/JamiRazaCodes/expenseMangment.git)
+cd expenseMangment/expenseManagementApp
 npm install
 
 Must install Tailwind
@@ -55,3 +55,7 @@ View your history.
 Click the ❌ to delete any transaction.
 
 Data persists using localStorage.
+
+📌 License
+This project is open-source and free to use for learning purposes.
+Feel free to modify and improve!
